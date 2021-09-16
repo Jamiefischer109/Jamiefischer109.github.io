@@ -5,3 +5,5 @@ My name is Jamie Fischer and I am a junior at Lehigh University majoring in jour
 I am using this site to work with data sets, create graphics, and explore my interest in data journalism.
 
 Please visit my [writing portfolio](https://jamiefischer109.wixsite.com/mysite) to see some of my past work.
+
+![me](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Jamie%20Fischer-%20Headshot.JPG?raw=true)
