@@ -13,7 +13,7 @@ Please visit my [writing portfolio](https://jamiefischer109.wixsite.com/mysite) 
 ## Where do Lehigh undergraduates live during the semester?
 Source: Lehigh's Office of Institutional Research and Strategic Analytics
 
-This data was collected by Lehigh's Office of Institutional Research and Strategic Analytics. The data details the break of up where undergraduate Lehigh students lived during the Fall 2019 semester. After viewing the data, we can conclude that the majority of students lived in residence halls, followed by off-campus housing. Around 13% live in Greek housing on the hill. 
+This data was collected by Lehigh's Office of Institutional Research and Strategic Analytics. The [data](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) details the break of up where undergraduate Lehigh students lived during the Fall 2019 semester. After viewing the data, we can conclude that the majority of students lived in residence halls, followed by off-campus housing. Around 13% live in Greek housing on the hill. 
 ![Where do Lehigh undergraduates live during the semester?](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Infographic.png?raw=true)
 
 
