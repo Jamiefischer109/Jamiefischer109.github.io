@@ -8,6 +8,6 @@ I am using this site to work with data sets, create graphics, and explore my int
 
 Please visit my [writing portfolio](https://jamiefischer109.wixsite.com/mysite) to see some of my past work, or my [linkedin](https://www.linkedin.com/in/jamie-fischer-9633401a2/) to see my prior experience. 
 
-![Where do Lehigh undergraduates live during the semester?](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Infographic.png?raw=true){height="36px" width="36px"}
+![Where do Lehigh undergraduates live during the semester?](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Infographic.png?raw=true){height="25px" width="30px"}
 
 ![me](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Jamie%20Fischer-%20Headshot.JPG?raw=true)
