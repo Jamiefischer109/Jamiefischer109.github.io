@@ -18,6 +18,7 @@ This data was collected by Lehigh's Office of Institutional Research and Strateg
 
 ## Coffee Consumption by Age Group in the U.S.
 Source: National Coffee Association 2020
-This data demonstrates the break down of which age groups in the U.S. drank the most coffee in 2020. Findings show that older adults drink the most coffee, followed by young adults in the 25-39 year old range. Older adults likely have been drinking coffee their whole lives, and rely on caffeine to get through the work day. It is very interesting to see that almost 50% of college students, who probably aren't employed in the workforce, are still avid coffee drinkers. I am curious if most young people drink it for taste or for energy. If energy, it is shocking that college students feel so tired that they rely on caffeine regularly.    
+
+This [data](https://www.perfectbrew.com/blog/coffee-statistics-infographic/) demonstrates the break down of which age groups in the U.S. drank the most coffee in 2020. Findings show that older adults drink the most coffee, followed by young adults in the 25-39 year old range. Older adults likely have been drinking coffee their whole lives, and rely on caffeine to get through the work day. It is very interesting to see that almost 50% of college students, who probably aren't employed in the workforce, are still avid coffee drinkers. I am curious if most young people drink it for taste or for energy. If energy, it is shocking that college students feel so tired that they rely on caffeine regularly.    
 ![Coffee Consumption by Age Group in the U.S.](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Coffee%20Consumption%20by%20age%20group%20in%20the%20U.S.png?raw=true)
 
