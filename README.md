@@ -33,5 +33,5 @@ This timeline shows the evolution of the British boy band, One Direction. From t
 
 ### Countries ranked by GDP
 
-This is a bar chart created using Chartbuilder showing the world's richest countries. Original data can be accessed here.
-![GDP](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/The_World's_Richest_Countries_________GDP_chartbuilder.png?raw=true)
+This is a bar chart created using Chartbuilder showing Lehigh's undergraduate enrollment by college in 2019. Original data can be accessed [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf).
+![Lehigh 2019 Undergraduate Enrollment by College](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Lehigh_2019_Undergraduate_Enrollment_by_College_2019_Percent_of_Undergraduate_Enrollment__chartbuilder.png?raw=true)
