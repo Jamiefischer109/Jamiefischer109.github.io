@@ -35,3 +35,8 @@ This timeline shows the evolution of the British boy band, One Direction. From t
 
 This is a bar chart created using Chartbuilder showing Lehigh's undergraduate enrollment by college in 2019. Original data can be accessed [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf).
 ![Lehigh 2019 Undergraduate Enrollment by College](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Lehigh_2019_Undergraduate_Enrollment_by_College_2019_Percent_of_Undergraduate_Enrollment__chartbuilder.png?raw=true)
+
+### Top 10 States With Highest Minimum Wage - 2021
+This is a bar chart created using Chartbuilder showing the top 10 states with the highest minimum wage in 2011. Original data can be accessed [here](https://www.opploans.com/oppu/articles/states-with-highest-minimum-wages/).
+![States with Highest Minimum Wage](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Top_10_States_with_Highest_Minimum_Wage_-_2021_Minimum_Wage_chartbuilder.png?raw=true)
+
