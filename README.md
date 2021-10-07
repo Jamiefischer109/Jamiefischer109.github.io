@@ -31,7 +31,7 @@ This timeline shows the progression of the Patriot League's infamous "Le-Laf" Ri
 This timeline shows the evolution of the British boy band, One Direction. From their discovery in 2010 to their split in 2016, the group's journey has been noteworthy.  
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13JcerEhKBLGAslAMo7FEn3G3yGoKHRAsMyW7KYizqLE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### Countries ranked by GDP
+### Lehigh 2019 Undergraduate Enrollment by College
 
 This is a bar chart created using Chartbuilder showing Lehigh's undergraduate enrollment by college in 2019. Original data can be accessed [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf).
 ![Lehigh 2019 Undergraduate Enrollment by College](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Lehigh_2019_Undergraduate_Enrollment_by_College_2019_Percent_of_Undergraduate_Enrollment__chartbuilder.png?raw=true)
