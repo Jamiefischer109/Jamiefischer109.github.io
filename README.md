@@ -41,5 +41,5 @@ This is a bar chart created using Chartbuilder showing the top 10 states with th
 ![States with Highest Minimum Wage](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Top_10_States_with_Highest_Minimum_Wage_-_2021_Minimum_Wage_chartbuilder.png?raw=true)
 
 ### Lehigh University College Enrollment Trends, 2017-2021
-This chart was created using chartbuilder to show the Lehigh University enrollment trends for each college over a 5-year span, from 2017-2021. 
+This chart was created using chartbuilder to show the Lehigh University enrollment trends for each college over a 5-year span, from 2017-2021. The trends interestingly show a rapid rise in popularity for the arts and sciences, and an overall decline in business. The original data can be accessed [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf)
 ![Lehigh Enrollment Trends](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Lehigh_University_College_Enrollment_Trends,_from_2017-2021_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
