@@ -40,3 +40,6 @@ This is a bar chart created using Chartbuilder showing Lehigh's undergraduate en
 This is a bar chart created using Chartbuilder showing the top 10 states with the highest minimum wage in 2021. Minimum wage is a very pressing issue in today's society, and I was interested in learning about the various wage standards across the country. I Googled "2021 minimum wage by state," and sifted through various sources to find a comprehensive data set. Though the set I found included the minimum wage of all 50 states, I decided that the information would easiest to digest if I focused on the top 10. Original data can be accessed [here](https://www.opploans.com/oppu/articles/states-with-highest-minimum-wages/).
 ![States with Highest Minimum Wage](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Top_10_States_with_Highest_Minimum_Wage_-_2021_Minimum_Wage_chartbuilder.png?raw=true)
 
+### Lehigh University College Enrollment Trends, 2017-2021
+This chart was created using chartbuilder to show the Lehigh University enrollment trends for each college over a 5-year span, from 2017-2021. 
+![Lehigh Enrollment Trends](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Lehigh_University_College_Enrollment_Trends,_from_2017-2021_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
