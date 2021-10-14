@@ -42,4 +42,4 @@ This is a bar chart created using Chartbuilder showing the top 10 states with th
 
 ### Lehigh University College Enrollment Trends, 2017-2021
 This chart was created using chartbuilder to show the Lehigh University enrollment trends for each college over a 5-year span, from 2017-2021. The trends interestingly show a rapid rise in popularity for the arts and sciences, and an overall decline in business. The original data can be accessed [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf)
-![Lehigh Enrollment Trends](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Lehigh_University_College_Enrollment_Trends,_from_2017-2021_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+![Lehigh Enrollment Trends](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Lehigh_Enrollment_Trends_by_College_-_2017_to_2021_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
