@@ -55,5 +55,5 @@ The data shows a negative correlation between the two: more schooling is associa
 ![Correlation Between Mean Years Of Schooling and Fertility Rate](https://github.com/Jamiefischer109/Jamiefischer109.github.io/blob/main/Relationship_Between_Mean_Years_of_Schooling_and_Fertility_Rate_-2010_Mean_Years_of_Schooling_chartbuilder.png?raw=true)
 
 ### 2019 World's Most Popular Bike Cities
-[Most Popular Biking Cities on the Planet](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MTXd4I_9cpSbq9X6lRxHvuWTWR0djiT9" width="640" height="480"></iframe>)
+[Most Popular Biking Cities on the Planet](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MTXd4I_9cpSbq9X6lRxHvuWTWR0djiT9" width="640" height="480"></iframe>) 
 You can access the raw data [here](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
