@@ -58,4 +58,4 @@ The data shows a negative correlation between the two: more schooling is associa
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MTXd4I_9cpSbq9X6lRxHvuWTWR0djiT9" width="640" height="480"></iframe>
 
-You can access the raw data [here](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/
+You can access the raw data [here](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
