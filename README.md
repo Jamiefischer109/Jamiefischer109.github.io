@@ -59,3 +59,11 @@ The data shows a negative correlation between the two: more schooling is associa
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MTXd4I_9cpSbq9X6lRxHvuWTWR0djiT9" width="640" height="480"></iframe>
 
 You can access the raw data [here](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
+
+### 2021's Top 10 Happiest Cities in the World
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=13a2Am0srldlbMd1zo7V-noMD_EkSgByz" width="640" height="480"></iframe>
+
+This map was created using Google My Maps, and shows the world's top 10 happiest cities as of May 2021 by location. This information is useful as it can both be used by tourists to plan trips and excursions, and can stimulate pride for citizens of these cities. It can also be interesting for cities and countries not in this top 10 to look at these results and see what they can do to improve the quality of life for their own residents. I find it fascinating that seven of the 10 happiest cities are located in Europe, and none are in North America. I am curious why the majority are in such close proximity to each other, and  whether the increased happiness in this region is related more so to culture or geography. My direct source can be referenced [here](https://www.lovehomeswap.com/blog/places-and-spaces/the-top-10-happiest-cities). 
+
+Made by Jamie Fischer 
